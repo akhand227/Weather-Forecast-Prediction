@@ -5,10 +5,10 @@
 ### Problem Definition
 
 Predict weather forecast based on the date-time provided. Our model provides prediction regarding: <ol><br>
-    <li>Humidity
-    <li>Wind Speed
-    <li>Mean Temperature
-    <li>Mean Pressure
+ <li>Humidity
+ <li>Wind Speed
+ <li>Mean Temperature
+ <li>Mean Pressure
 
 ### Data
 
