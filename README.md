@@ -8,7 +8,7 @@ Predict weather forecast based on the date-time provided. Our model provides pre
  <li>Humidity
  <li>Wind Speed
  <li>Mean Temperature
- <li>Mean Pressure
+ <li>Mean Pressure </ol>
 
 ### Data
 
